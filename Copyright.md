@@ -1,0 +1,1 @@
+(c) Ipatov Evgeny, https://vk-book.ru/kniga-128-receptov-php/
