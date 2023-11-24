@@ -1,1 +1,1 @@
-(c) Ipatov Evgeny, https://vk-book.ru/kniga-128-receptov-php/
+(c) Ipatov Evgeny, 2014, https://vk-book.ru/kniga-128-receptov-php/
